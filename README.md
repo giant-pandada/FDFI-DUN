@@ -1,4 +1,4 @@
-# [Feature-Domain FISTA-Inspired Network for Compressive Sensing]
+# Feature-Domain FISTA-Inspired Network for Compressive Sensing
 ## Test
 Set the sampling rate and dataset for the test in the eval.py.
 Place the test dataset into the "./dataset/test/" folder and Place the pretrained models into the "./results/" folder.
